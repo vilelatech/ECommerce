@@ -21,4 +21,10 @@
     <ProjectReference Include="..\ECommerce.Infra\ECommerce.Infra.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DTOs\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
 </Project>
